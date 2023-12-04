@@ -1,0 +1,14 @@
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\bin\Debug\net8.0\MultiplicaciónRusa.exe
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\bin\Debug\net8.0\MultiplicaciónRusa.deps.json
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\bin\Debug\net8.0\MultiplicaciónRusa.runtimeconfig.json
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\bin\Debug\net8.0\MultiplicaciónRusa.dll
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\bin\Debug\net8.0\MultiplicaciónRusa.pdb
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\obj\Debug\net8.0\MultiplicaciónRusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\obj\Debug\net8.0\MultiplicaciónRusa.AssemblyInfoInputs.cache
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\obj\Debug\net8.0\MultiplicaciónRusa.AssemblyInfo.cs
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\obj\Debug\net8.0\MultiplicaciónRusa.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\obj\Debug\net8.0\MultiplicaciónRusa.dll
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\obj\Debug\net8.0\refint\MultiplicaciónRusa.dll
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\obj\Debug\net8.0\MultiplicaciónRusa.pdb
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\obj\Debug\net8.0\MultiplicaciónRusa.genruntimeconfig.cache
+C:\Users\user\Documents\DeLxCruz\PushUps\Lógica\MultiplicaciónRusa\obj\Debug\net8.0\ref\MultiplicaciónRusa.dll
